@@ -1,444 +1,252 @@
 {
-  "example": [
-    {
-      "id": 1,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 2,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 3,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 4,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 5,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 6,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 7,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 8,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 9,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 10,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 11,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 12,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 13,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 14,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 15,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 16,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 17,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 18,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 19,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 20,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 21,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 22,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 23,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 24,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 25,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 26,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 27,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 28,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 29,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 30,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 31,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 32,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 33,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 34,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 35,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 36,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 37,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 38,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 39,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 40,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    }
-  ]
+    "starters": [
+        {
+            "name": "Bruschetta",
+            "description": "Toasted bread topped with fresh tomatoes, basil, and garlic.",
+            "price": "ksh 550",
+            "image": "https://media.istockphoto.com/id/527116431/photo/bruschetta.jpg?s=612x612&w=0&k=20&c=5axcwRdTi_hTZ9YCr0-WdIV9ZTjWCkbhPQTjLRWp6Vs="
+        },
+        {
+            "name": "Stuffed Mushrooms",
+            "description": "Mushrooms stuffed with cream cheese and herbs.",
+            "price": "Ksh 620",
+            "image": "https://media.gettyimages.com/id/510025814/photo/close-up-of-sausage-stuffed-mushrooms.jpg?s=612x612&w=0&k=20&c=gJ5vxQk6_AWgZkyCAW2c-eB2M-F4mSOcE4tL7dlCQsc="
+        },
+        {
+            "name": "Chicken Wings",
+            "description": "Crispy chicken wings tossed in your choice of sauce: buffalo, barbecue, or honey mustard.",
+            "price": "Ksh 1480",
+            "image": "https://media.gettyimages.com/id/471149141/photo/bbq-buffalo-wings.jpg?s=612x612&w=0&k=20&c=LB-NELXbyKuW6C2jv690I9Ic1R8eyQd3x2Nxyf7q4HY="
+        },
+        {
+            "name": "Spinach Artichoke Dip",
+            "description": "Creamy dip made with spinach, artichokes, and cheese, served with tortilla chips.",
+            "price": "Ksh 3200",
+            "image": "https://media.gettyimages.com/id/1206729851/photo/artichoke-spinach-hummus-with-carrots-and-snap-peas-on-a-rustic-metal-table.jpg?s=612x612&w=0&k=20&c=BgTQsmwSZdakAaCHPHs7qYFvGaKfaImfypcwyioDIrE="
+        },
+        {
+            "name": "tesos",
+            "description": "Lightly breaded and fried squid rings, served with marinara sauce and a lemon wedge.",
+            "price": "Ksh 2895",
+            "image": "https://images.pexels.com/photos/3645127/pexels-photo-3645127.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "name": "malrine",
+            "description": "Lightly breaded and fried squid rings, served with marinara sauce and a lemon wedge.",
+            "price": "Ksh 3205",
+            "image": "https://images.pexels.com/photos/27969855/pexels-photo-27969855/free-photo-of-a-salad-with-peaches-nuts-and-other-ingredients.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "name": "satelo",
+            "description": "Lightly breaded and fried squid rings, served with marinara sauce and a lemon wedge.",
+            "price": "Ksh 4285",
+            "image": "https://images.pexels.com/photos/27609407/pexels-photo-27609407/free-photo-of-a-plate-with-fried-chicken-sticks-and-dipping-sauce.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "name": "Calamari",
+            "description": "Lightly breaded and fried squid rings, served with marinara sauce and a lemon wedge.",
+            "price": "Ksh 2205",
+            "image": "https://media.gettyimages.com/id/1473343111/photo/salt-and-pepper-calamari.jpg?s=612x612&w=0&k=20&c=HEeKogmcr-a_Pw6L-30_2qzG_B2wEVYD1bNHWb01lOc="
+        },
+        {
+            "name": "Iced Tea",
+            "description": "A chilled tea beverage served with lemon and a touch of sweetness.",
+            "price": "Ksh 742",
+            "image": "https://media.gettyimages.com/id/1002040890/photo/making-cup-of-tea.jpg?s=612x612&w=0&k=20&c=4m2Z-QGqwaK7Qja4DFdwv9NDoQv8GSyETa5VD-lC6PQ="
+        },
+        {
+            "name": "Lemonade",
+            "description": "A refreshing drink made with freshly squeezed lemon juice, sugar, and water.",
+            "price": "Ksh 540",
+            "image": "https://media.gettyimages.com/id/1448594799/photo/chinese-food-summer-cool-drinks-juice-and-milk-tea-chinese-take-out-hot-sellers.jpg?s=612x612&w=0&k=20&c=bLSU4aUFqoLuhblWVrHeURYMF-jhJLUOtCglcPfpMBY="
+        }
+    ],
+    "desserts": [
+       {
+         "name":"Cheesecake",
+         "description": "A creamy dessert made with a mixture of cream cheese, eggs, and sugar on a graham cracker crust. ",
+            "price": "Ksh 1750",
+            "image": "https://images.pexels.com/photos/3185509/pexels-photo-3185509.png?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "name":"Chocolate Cake",
+            "description": "A rich and moist cake made with cocoa powder or melted chocolate, often layered and frosted with chocolate ganache",
+               "price": "Ksh 1890",
+               "image": "https://images.pexels.com/photos/3081657/pexels-photo-3081657.jpeg?auto=compress&cs=tinysrgb&w=400"
+           },
+           {
+            "name":" Tiramisu",
+            "description": "An Italian dessert made with layers of coffee-soaked ladyfingers and a creamy mixture",
+               "price": "Ksh 290",
+               "image": "https://images.pexels.com/photos/27305282/pexels-photo-27305282/free-photo-of-two-pastries-on-a-plate-with-a-fork-and-knife.jpeg?auto=compress&cs=tinysrgb&w=400"
+           },
+           {
+            "name":"Apple Pie",
+            "description": " A classic American dessert featuring a buttery, flaky pie crust filled with spiced apple slices. ",
+               "price": "Ksh 1790",
+               "image": "https://images.pexels.com/photos/3223494/pexels-photo-3223494.jpeg?auto=compress&cs=tinysrgb&w=400"
+           },
+           {
+            "name":"Panna Cotta",
+            "description": "An Italian dessert made with sweetened cream that is flavored with vanilla and set with gelatin. ",
+               "price": "Ksh 1890",
+               "image": "https://images.pexels.com/photos/302468/pexels-photo-302468.jpeg?auto=compress&cs=tinysrgb&w=400"
+           },
+           {
+            "name":"Crème Brûlée",
+            "description": "A French dessert consisting of a rich custard base topped with a layer of hardened caramelized sugar.",
+               "price": "Ksh 1400",
+               "image": "https://images.pexels.com/photos/18976995/pexels-photo-18976995/free-photo-of-bowl-of-creme-brulee-decorated-with-strawberry-ice-cream-and-berries.jpeg?auto=compress&cs=tinysrgb&w=400"
+           },
+           {
+            "name":"Baklava",
+            "description": "A sweet pastry made of layers of phyllo dough filled with chopped nuts and sweetened with honey or syrup. ",
+               "price": "Ksh 1080",
+               "image": "https://images.pexels.com/photos/27668671/pexels-photo-27668671/free-photo-of-a-pastry-with-a-green-sauce-on-top.jpeg?auto=compress&cs=tinysrgb&w=400"
+           },
+           {
+            "name":"Macarons",
+            "description": "French almond-based cookies with a smooth, crisp shell and a soft, chewy interior. ",
+               "price": "Ksh 100",
+               "image": "https://images.pexels.com/photos/2226977/pexels-photo-2226977.jpeg?auto=compress&cs=tinysrgb&w=400"
+           },
+           {
+            "name":" Brownies",
+            "description": ": A dense, fudgy or cakey dessert made with chocolate and typically cut into squares.",
+               "price": "Ksh 890",
+               "image": "https://images.pexels.com/photos/887853/pexels-photo-887853.jpeg?auto=compress&cs=tinysrgb&w=400"
+           },
+           {
+            "name":"Pavlova",
+            "description": " A meringue-based dessert with a crispy exterior and a soft, marshmallow-like interior.",
+               "price": "Ksh 1400",
+               "image": "https://images.pexels.com/photos/8601852/pexels-photo-8601852.jpeg?auto=compress&cs=tinysrgb&w=400"
+           }
+    ],
+    "mainDishes": [
+        {
+            "name": "Grilled Ribeye",
+            "description": "Juicy ribeye steak grilled to perfection.",
+            "price": "Ksh 1890",
+            "image": "https://media.gettyimages.com/id/106285825/photo/grilled-steak-with-flame.jpg?s=612x612&w=0&k=20&c=kg_S-s36gw4CDaFMhxmV6--J5c2eMzq_-IjYBxgX1Yc="
+        },
+        {
+            "name": "Vegetarian Lasagna",
+            "description": "Layers of pasta, cheese, and fresh vegetables.",
+            "price": "Ksh 780",
+            "image": "https://media.gettyimages.com/id/2150023442/photo/close-up-of-food-in-plate-on-table-united-states-usa.jpg?s=612x612&w=0&k=20&c=pKMaKYY6yNMWQJgxLlTmBZzmyLPH8amrvUfUMoBw-iM="
+        },
+        {
+            "name": "Margherita Pizza",
+            "description": "A classic pizza topped with fresh mozzarella, tomato sauce, and basil.",
+            "price": "Ksh 670",
+            "image": "https://media.gettyimages.com/id/157507884/photo/authentic-neapolitan-margherita-pizza.jpg?s=612x612&w=0&k=20&c=HJPO9PsgNECYZeUXz6Kpc2e3BtDqTxz3oZC4ZJZzxcI="
+        },
+        {
+            "name": "Grilled Salmon",
+            "description": "Delicious grilled salmon fillet served with a side of lemon butter sauce and seasonal vegetables.",
+            "price": "Ksh 1590",
+            "image": "https://media.gettyimages.com/id/161843741/photo/cedar-plank-salmon-fillet-on-an-outdoor-bbq.jpg?s=612x612&w=0&k=20&c=RW__iN73LbSpp9oqd2K1BhNy65_SszSODeehFVvCoyc="
+        },
+        {
+            "name": "Beef Burger",
+            "description": "Juicy beef patty served with lettuce, tomato, pickles, and your choice of cheese on a toasted bun.",
+            "price": "Ksh 1500",
+            "image": "https://media.gettyimages.com/id/1416033452/photo/cheeseburger-on-a-homemade-wooden-cutting-board-with-a-dark-background.jpg?s=612x612&w=0&k=20&c=DtiafCFiU08FdlxP4g4ZhhJAqeRuc7NGML4XWzPt--o="
+        },
+        {
+            "name": "Caesar Salad",
+            "description": "Crisp romaine lettuce tossed with Caesar dressing, Parmesan cheese, and croutons.",
+            "price": "Ksh 652",
+            "image": "https://media.gettyimages.com/id/184938052/photo/a-bowl-of-caesar-salad-with-croutons-and-cheese-on-table.jpg?s=612x612&w=0&k=20&c=zkzYRZzIHz1F2SH7F7ikWIitQiczmTXxA4-PBKj5Ycc="
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "description": "Classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+            "price": "Ksh 455",
+            "image": "https://media.istockphoto.com/id/1292639145/photo/chapati-isolated-over-a-rustic-wooden-background-selective-focus.jpg?b=1&s=612x612&w=0&k=20&c=CqV_lFSstauLEeEpZfFkGMw7mTBIJhVVhAtvbS3eWbY="
+        },
+        {
+            "name": "chapati",
+            "description": "Classic kenyan chapati dish made with eggs, flour, water, and oil. served with stew",
+            "price": "Ksh 455",
+            "image": "https://media.gettyimages.com/id/1253055077/photo/spaghetti-carbonara.jpg?s=612x612&w=0&k=20&c=87iSGoR6fmHf7tCwz3QTEUJhB5e_h-WOfyqCxc1KMdw="
+        },
+        {
+            "name": "nyama choma",
+            "description": "Classic kenyan meat  dish  with  kachumbary, salt, garlic, and pepper.",
+            "price": "Ksh 455",
+            "image": "https://images.pexels.com/photos/27819681/pexels-photo-27819681/free-photo-of-a-platter-with-meat-vegetables-and-onions-on-it.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "description": "Tender chicken pieces simmered in a rich and creamy tomato-based sauce with spices.",
+            "price": "Ksh 670",
+            "image": "https://media.gettyimages.com/id/953782810/photo/indian-food.jpg?s=612x612&w=0&k=20&c=O55x8w-kG2fMkVfZD7zVm7M6oQThi5atQRoGAXL8pEM="
+        }
+    ],
+    "drinks": [
+        {
+            "name": "Classic Margarita",
+            "description": "A refreshing cocktail made with tequila, lime juice, and triple sec, served with a salted rim.",
+            "price": "Ksh 920",
+            "image": "https://media.gettyimages.com/id/1057581880/photo/fresh-coctail-drink-on-black-background.jpg?s=612x612&w=0&k=20&c=6TSYJOuxo8TWMx9acMDISLayj8zrfM7tuH1wlAYidYs="
+        },
+        {
+            "name": "helnety",
+            "description": "A tropical blend of rum, coconut cream, and pineapple juice, topped with a pineapple slice.",
+            "price": "Ksh 450",
+            "image": "https://images.pexels.com/photos/667986/pexels-photo-667986.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "name": "Mojito",
+            "description": "A crisp and cool mix of white rum, lime juice, fresh mint, sugar, and soda water.",
+            "price": "Ksh 580",
+            "image": "https://media.gettyimages.com/id/1253999472/photo/mojito-cocktail.jpg?s=612x612&w=0&k=20&c=xOA8MH1DkjTEf0zXnlRGMLcGBTcT5Y-fENVfD3ZVVyc="
+        },
+        {
+            "name": "Old Fashioned",
+            "description": "A classic cocktail made with bourbon, sugar, bitters, and a twist of orange.",
+            "price": "Ksh 680",
+            "image": "https://media.gettyimages.com/id/1307727101/photo/close-up-of-old-fashioned-cocktail-with-orange-slice.jpg?s=612x612&w=0&k=20&c=FgLlHiSWVc9JH2OQSeepPFleiAM-Er15WQGJsSL1_qM="
+        },
+        {
+            "name": "Classic Margarita",
+            "description": "A refreshing cocktail made with tequila, lime juice, and triple sec, served with a salted rim.",
+            "price": "Ksh 920",
+            "image": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "name": "Pina Colada",
+            "description": "A tropical blend of rum, coconut cream, and pineapple juice, topped with a pineapple slice.",
+            "price": "Ksh 450",
+            "image": "https://media.gettyimages.com/id/1182739629/photo/pina-colada-cocktail.jpg?s=612x612&w=0&k=20&c=5D2UjvQ2nBfnMc2wmdmJO0kx2Hr9JKaLp82PElS7kmM="
+        },
+        {
+            "name": "Espresso Martini",
+            "description": "A sophisticated mix of vodka, coffee liqueur, and fresh espresso, garnished with coffee beans.",
+            "price": "Ksh 505",
+            "image": "https://media.gettyimages.com/id/1142011246/photo/cocktail-espresso-martini.jpg?s=612x612&w=0&k=20&c=T2sFqHxulQxf-bcfJFHAXUyubaSufeTF4ik-7_6QyJw="
+        },
+        {
+            "name": "Chandon imperial",
+            "description": "A classic cocktail made with bourbon, sugar, bitters, and a twist of orange.",
+            "price": "Ksh 680",
+            "image": "https://images.pexels.com/photos/2995333/pexels-photo-2995333.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "name": "Virgin Mojito",
+            "description": "A non-alcoholic version of the classic mojito with mint, lime, sugar, and soda water.",
+            "price": "Ksh 1150",
+            "image": "https://media.gettyimages.com/id/636150222/photo/virgin-mojito.jpg?s=612x612&w=0&k=20&c=nYx-Igdu5TrslmHqGLT3s_cN42hrxcK-9BWWv9oPhB0="
+        },
+        {
+            "name": "Espou cocktail",
+            "description": "A sophisticated mix of vodka, coffee liqueur, and fresh espresso, garnished with coffee beans.",
+            "price": "Ksh 505",
+            "image": "https://images.pexels.com/photos/1148215/pexels-photo-1148215.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+        
+    ]
+    
 }
